@@ -16,3 +16,5 @@ Eg: ./prog -c red
 - If -h flag is given or the given arguments are invalid, print the usages of program (how the arguments should be given). 
 
 - Reffered boundary cases and handle the errors 
+
+finaly edited from web
