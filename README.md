@@ -1,5 +1,6 @@
 # Digital-clock
 Prints the current time, and date
+** linux terminal
 
 If a color is given as an argument to the program, the program print a colored output
 
